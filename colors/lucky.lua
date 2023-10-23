@@ -1,0 +1,1 @@
+require "lucky.lucky".load()
